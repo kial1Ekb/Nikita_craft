@@ -1,2 +1,2 @@
-# 5_Project
-Сайт для оценивания поставщиков муниципальных услуг
+# Project Calculator digital feedback
+Сайт на JAVA SPRING FRAMEWORK для оценки муниципальных услуг
